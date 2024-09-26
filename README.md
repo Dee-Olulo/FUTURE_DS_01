@@ -1,4 +1,4 @@
-#**Titanic Survival Analysis: An Exploratory Data Analysis (EDA) Journey**
+# **Titanic Survival Analysis: An Exploratory Data Analysis (EDA) Journey**
 
 ## Description:
 In this notebook, we delve into the Titanic dataset to uncover insights about the factors influencing passenger survival rates. Through a series of visualizations and statistical analyses, we explore the impact of socio-economic status, gender, and age on survival outcomes. Key findings include the higher survival rates of first-class passengers, the prioritization of women and children during evacuation, and the age distribution's role in survival likelihood. This comprehensive EDA provides a clear understanding of the historical data and highlights significant patterns that shaped the tragic event.
